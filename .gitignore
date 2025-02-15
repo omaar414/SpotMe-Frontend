@@ -25,3 +25,6 @@ dist-ssr
 
 # Ocultar archivos de compilación
 .env
+
+#ocultar config.js
+src/config.js
