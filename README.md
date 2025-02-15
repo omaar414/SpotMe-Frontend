@@ -27,8 +27,9 @@ SpotMe es una aplicación de rastreo de ubicación en tiempo real que permite a 
 - **.NET Core SDK** (para el backend)  
 - **PostgreSQL** (para la base de datos)  
 
-### 🔹 Clonar el repositorio:
+### 🔹 Instalación local:
 ```bash
 git clone https://github.com/omaara414/SpotMe-Frontend.git
 cd SpotMe-Frontend
+npm run dev
 
