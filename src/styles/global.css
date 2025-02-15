@@ -1,0 +1,72 @@
+/* 🌙 Estilos globales - Tema oscuro elegante */
+
+/* Configuración general del body */
+body {
+    background-color: #0e141d; /* Azul oscuro elegante */
+    color: #EAEAEA; /* Texto claro */
+    font-family: "Helvetica Neue", Arial,  sans-serif;
+    margin: 5px;
+    padding: 0;
+   
+    
+  }
+ 
+  h1,h2 {
+    color: #CDAA7D;
+  }
+   
+   .custom-input{
+    padding: 7px;
+    border-width: 1px;
+   }
+
+   .custom-p-login{
+    font-size: 15px;
+   }
+
+   .custom-btn-home{
+    border-color: whitesmoke;
+    border-width: 2px;
+    font-weight: 600;
+    background-color:#0e141d;
+    padding: 8, 20, 8, 20;
+
+   }
+
+   .custom-btn-home2{
+    font-weight: 600;
+    background-color: #CDAA7D;
+    border-color:#CDAA7D;
+    border-width: 2px;
+   }
+   .custom-btn-home2v1{
+    font-weight: 600;
+    background-color: #CDAA7D;
+    border-color:#CDAA7D;
+    border-width: 2px;
+   }
+
+   .btn-primary:hover{
+    background-color: #b8926a;
+    border-color: whitesmoke;
+   }
+
+   .card-title{
+    color: #CDAA7D;
+    font-weight: "bold";
+   }
+
+   .custome-btn-logout{
+    background-color:#ff4b2b;
+    border-color: whitesmoke;
+    color:#fff;
+    border: none;
+    font-weight: 600;
+    border-radius: 6px;
+    transition: background 0.2s ease-in-out, transform 0.1s ;
+   }
+
+   .custome-btn-logout:hover {
+    background: #e04326;
+    transform: scale(0.95);
+   }
