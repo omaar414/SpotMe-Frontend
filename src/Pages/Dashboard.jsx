@@ -14,7 +14,7 @@ function Dashboard() {
   //Once token is removed , redirect to login page
     const handleLogout = () => {
         localStorage.removeItem('token');
-        navigate('/login');
+        navigate('/');
     };
 
   //  Obtener la ubicación del usuario al entrar
